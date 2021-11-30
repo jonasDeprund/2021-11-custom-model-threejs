@@ -33,10 +33,6 @@ gltfLoader.load('/models/hamburger.glb', (gltf) => {
 });
 
 /**
- * Burger
- */
-
-/**
  * Floor
  */
 const floor = new THREE.Mesh(
